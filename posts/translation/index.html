@@ -21,7 +21,7 @@
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.c58292d36b18b675680ab9baea2029204537b839ea72f258746ec0f32ce8d6c8.css" integrity="sha256-xYKS02sYtnVoCrm66iApIEU3uDnqcvJYdG7A8yzo1sg=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.70ee0126e6e443a46ed0ec43571c394fe2b9b8ae2dcb22de57c6aac90010b012.js" integrity="sha256-cO4BJubkQ6Ru0OxDVxw5T&#43;K5uK4tyyLeV8aqyQAQsBI=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.68b3e301d7a6748d91996c000228032873339a8601afd8df52ead39fe5520fc4.js" integrity="sha256-aLPjAdemdI2RmWwAAigDKHMzmoYBr9jfUurTn&#43;VSD8Q=" crossorigin="anonymous"></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -129,6 +129,8 @@ https://github.com/alex-shpak/hugo-book
       <ul>
         <li><a href="#teams">Teams</a></li>
         <li><a href="#projects">Projects</a></li>
+        <li><a href="#modules">Modules</a></li>
+        <li><a href="#translation">Translation</a></li>
       </ul>
     </li>
   </ul>
@@ -201,10 +203,22 @@ https://github.com/alex-shpak/hugo-book
 <li>Mobile module: 모바일 버전 Anki에 사용되는 텍스트들을 포함하고 있습니다. 여기서 모바일이란, iOS를 말합니다. 안드로이드 버전인 AnkiDroid는 Anki와는 <a href="[https://github.com/ankidroid/Anki-Android/wiki/Translating-AnkiDroid]%28https://github.com/ankidroid/Anki-Android/wiki/Translating-AnkiDroid%29">별개의 프로젝트</a>로 번역을 진행하고 있습니다.</li>
 </ul>
 <p><img src="img/CleanShot%202022-12-09%20at%2014.58.45@2x%201.jpg" alt="Projects" /></p>
+<h3 id="modules">
+  Modules
+  <a class="anchor" href="#modules">#</a>
+</h3>
 <p>각 module을 클릭하면 Anki 메뉴의 텍스트들이 포함된 리소스 파일들이 나옵니다. 예를 들어, 아래 이미지에서 browsing.ftl은 Anki의 브라우저(탐색) 화면에서 등장하는 텍스트들을 포함하고 있습니다. 그 아래의 card-stats.ftl 파일은 카드 통계 화면에서 등장하는 텍스트들을 포함합니다. 즉, 각 텍스트들은 프로그램 상 실제 파일 단위로 나뉘어져 있습니다. 따라서 똑같은 <code>Reviews</code> 라는 단어라도, 표시되는 메뉴의 맥락에 따라 <code>복습카드</code>가 될수도 있고 <code>복습량</code>이 될수도 있습니다.</p>
 <p><img src="img/CleanShot%202022-12-09%20at%2015.00.15@2x.jpg" alt="core" /></p>
+<h3 id="translation">
+  Translation
+  <a class="anchor" href="#translation">#</a>
+</h3>
 <p>위 파일 중 browsing.ftl을 클릭하면, 아래와 같이 텍스트 목록과 번역 이력이 나옵니다. 이전에 누가 번역을 업데이트했는지 나오고, 해당 번역을 Approve 또는 Unapprove 할 수 있습니다. 여러 명이 협업하는 경우 수정사항을 적절하게 의논하는 것이 중요해보입니다. 일정 시간이 지나면 해당 번역이 Anki 프로젝트로 <code>imported</code> 됩니다. 이는 다음 베타 테스트 버전 Anki가 릴리즈될 때 반영된다고 합니다.</p>
 <p><img src="img/CleanShot%202022-12-09%20at%2015.07.06@2x.jpg" alt="project_inside" /></p>
+<h4 id="all-project-검색">
+  All Project 검색
+  <a class="anchor" href="#all-project-%ea%b2%80%ec%83%89">#</a>
+</h4>
 <p>browsing.ftl 파일 이름을 클릭한 후 All Project로 검색 범위를 바꾸면, 모든 프로젝트에 특정 단어를 검색할 수 있습니다. 예를 들어, <code>bury</code> 라는 단어를 All Project 단위로 검색해서 해당 단어의 번역을 core, desktop, mobile 모두에 일관되게 유지할 수 있습니다.</p>
 <p><img src="img/CleanShot%202022-12-09%20at%2015.11.14@2x.jpg" alt="AllProjects" /></p>
 <p>그 외에 세부사항은 <a href="https://translating.ankiweb.net/intro.html" target="_blank">Anki Translation Guide</a>를 참고하시면 됩니다.</p>
@@ -254,6 +268,8 @@ https://github.com/alex-shpak/hugo-book
       <ul>
         <li><a href="#teams">Teams</a></li>
         <li><a href="#projects">Projects</a></li>
+        <li><a href="#modules">Modules</a></li>
+        <li><a href="#translation">Translation</a></li>
       </ul>
     </li>
   </ul>
