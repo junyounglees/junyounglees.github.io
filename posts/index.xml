@@ -5,6 +5,18 @@
     <link>http://junyounglees.github.io/posts/</link>
     <description>Recent content in Blog on 코리안키 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://junyounglees.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://junyounglees.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anki Translation Project</title>
+      <link>http://junyounglees.github.io/posts/translation/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://junyounglees.github.io/posts/translation/</guid>
+      <description>신청하기 #  Anki translation은 Firefox 브라우저를 개발한 Mozilla 재단에서 만든 Pontoon이라는 translation management system을 사용합니다. Anki 자체는 오픈소스이지만 개발자의 승낙을 통해 개발에 기여할 수 있는 것처럼, 개발자의 승낙을 통해서 번역 시스템에 참여할 수 있습니다.
+신청과정은 간단합니다.
+ 우선 anki support site에 접속해서 우측 Create a profile을 통해 가입해줍니다. 가입 후 로그인하면 위 주소를 통해 Private Discussion을 생성할 수 있습니다. 이는 개발자인 Damien Elmes에게 전달됩니다. 참여 승인을 위해서 개발자가 요구하는 정보는 아래 4가지입니다.</description>
+    </item>
+    
   </channel>
 </rss>
