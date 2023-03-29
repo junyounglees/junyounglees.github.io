@@ -14,4 +14,4 @@ Here is a link to my [[./Emacs.org][Emacs configuration]].
 - [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]
 
 
-* junyounglee
+* hello world
