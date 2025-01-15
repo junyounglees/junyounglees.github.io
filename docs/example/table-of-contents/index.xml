@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>junyounglee's blog</title><link>http://localhost:1313/docs/example/table-of-contents/</link><description>Recent content on junyounglee's blog</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/docs/example/table-of-contents/index.xml" rel="self" type="application/rss+xml"/><item><title>With ToC</title><link>http://localhost:1313/docs/example/table-of-contents/with-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/table-of-contents/with-toc/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
- Caput vino delphine in tamen vias
- &lt;a class="anchor" href="#caput-vino-delphine-in-tamen-vias">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="cognita-laeva-illo-fracta">
- Cognita laeva illo fracta
- &lt;a class="anchor" href="#cognita-laeva-illo-fracta">#&lt;/a>
-&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>junyounglee's blog 2</title><link>https://example.org/docs/example/table-of-contents/</link><description>Recent content on junyounglee's blog 2</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/docs/example/table-of-contents/index.xml" rel="self" type="application/rss+xml"/><item><title>With ToC</title><link>https://example.org/docs/example/table-of-contents/with-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/example/table-of-contents/with-toc/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">Caput vino delphine in tamen vias&lt;/h1>
+&lt;h2 id="cognita-laeva-illo-fracta">Cognita laeva illo fracta&lt;/h2>
 &lt;p>Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong>Laomedonque que&lt;/strong>
 est. Pastor &lt;a href="http://est.org/ire.aspx">An&lt;/a> arbor filia foedat, ne &lt;a href="http://www.indiciumturbam.org/moramquid.php">fugit
 aliter&lt;/a>, per. Helicona illas et
@@ -21,20 +15,11 @@ nativum&lt;/a>.&lt;/p>
 &lt;li>Quinquennem domus arsit ipse&lt;/li>
 &lt;li>Pellem turis pugnabant locavit&lt;/li>
 &lt;/ol>
-&lt;h2 id="natus-quaerere">
- Natus quaerere
- &lt;a class="anchor" href="#natus-quaerere">#&lt;/a>
-&lt;/h2>
+&lt;h2 id="natus-quaerere">Natus quaerere&lt;/h2>
 &lt;p>Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
 Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
-excutiunt concipit.&lt;/p></description></item><item><title>Without ToC</title><link>http://localhost:1313/docs/example/table-of-contents/without-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/table-of-contents/without-toc/</guid><description>&lt;h1 id="at-me-ipso-nepotibus-nunc-celebratior-genus">
- At me ipso nepotibus nunc celebratior genus
- &lt;a class="anchor" href="#at-me-ipso-nepotibus-nunc-celebratior-genus">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="tanto-oblite">
- Tanto oblite
- &lt;a class="anchor" href="#tanto-oblite">#&lt;/a>
-&lt;/h2>
+excutiunt concipit.&lt;/p></description></item><item><title>Without ToC</title><link>https://example.org/docs/example/table-of-contents/without-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/example/table-of-contents/without-toc/</guid><description>&lt;h1 id="at-me-ipso-nepotibus-nunc-celebratior-genus">At me ipso nepotibus nunc celebratior genus&lt;/h1>
+&lt;h2 id="tanto-oblite">Tanto oblite&lt;/h2>
 &lt;p>Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque
 illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro
 clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens
